@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "Who is the billionaire genius behind the Iron Man suit?",
+        "options": ["Tony Stark", "Steve Rogers", "Bruce Banner", "Peter Parker"],
+        "correct_answer": "Tony Stark"
+      },
+      {
+        "question": "What is the name of Thor's enchanted hammer?",
+        "options": ["Mjolnir", "Gungnir", "Stormbreaker", "Excalibur"],
+        "correct_answer": "Mjolnir"
+      },
+      {
+        "question": "Who is the Norse god of mischief and Thor's mischievous brother?",
+        "options": ["Loki", "Hela", "Odin", "Frigga"],
+        "correct_answer": "Loki"
+      },
+      {
+        "question": "Which superhero is known as the 'Man Without Fear' and defends Hell's Kitchen?",
+        "options": ["Daredevil", "Punisher", "Luke Cage", "Iron Fist"],
+        "correct_answer": "Daredevil"
+      },
+      {
+        "question": "What is the name of the highly advanced African nation ruled by T'Challa, the Black Panther?",
+        "options": ["Wakanda", "Zamunda", "Genovia", "Elbonia"],
+        "correct_answer": "Wakanda"
+      },
+      {
+        "question": "Which Avenger is a former Russian spy and master of martial arts and espionage?",
+        "options": ["Black Widow", "Scarlet Witch", "Captain Marvel", "Gamora"],
+        "correct_answer": "Black Widow"
+      },
+      {
+        "question": "Who is the genius scientist and inventor who can shrink to the size of an ant?",
+        "options": ["Scott Lang", "Hank Pym", "Reed Richards", "Ben Grimm"],
+        "correct_answer": "Scott Lang"
+      },
+      {
+        "question": "Which Guardian of the Galaxy is known for his sharpshooting skills and love of music mixtapes?",
+        "options": ["Star-Lord", "Groot", "Rocket", "Drax"],
+        "correct_answer": "Star-Lord"
+      },
+      {
+        "question": "What is the name of the green-skinned villain who is a major adversary of the Hulk?",
+        "options": ["The Leader", "The Abomination", "The Red Skull", "The Mandarin"],
+        "correct_answer": "The Leader"
+      },
+      {
+        "question": "Which superhero team consists of the Sorcerer Supreme, the Hulk, Iron Man, Thor, Captain America, and Black Widow?",
+        "options": ["The Avengers", "The X-Men", "The Fantastic Four", "The Inhumans"],
+        "correct_answer": "The Avengers"
+      }
+    ]
+  }
+  
